@@ -1,6 +1,6 @@
 # Simple Flask Project
 
-This is a simple Flask project that demonstrates a basic web application using Flask. It includes a Docker configuration for easy deployment. Run the docker image and then answer the question you have in the learning path. All of the apis in this project are numbers from one to eight, you can access them using the following example: `http://<ip of the docker>/one`
+This is a simple Flask project that demonstrates a basic web application using Flask. It includes a Docker configuration for easy deployment. Run the docker image and then answer the question you have in the learning path. All of the APIs in this project are numbers from one to eight, you can access them using the following example: `http://<ip of the docker>/one`
 
 ## Getting Started
 
